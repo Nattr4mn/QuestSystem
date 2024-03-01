@@ -4,7 +4,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace Nattr4mn.Quests
+namespace Nattr4mn.Quests.Repositories
 {
 	public class QuestRepository
 	{

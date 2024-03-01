@@ -4,6 +4,7 @@
 using System.Collections.Generic;
 using Nattr4mn.Quests.Configs;
 using Nattr4mn.Quests.Configs.Extensions;
+using Nattr4mn.Quests.Repositories;
 using UnityEngine;
 
 namespace Nattr4mn.Quests.MultiQuests

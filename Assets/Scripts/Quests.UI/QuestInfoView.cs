@@ -2,6 +2,7 @@
 // © 2023-2024 Aleksandr Kalashnikov <aleksandrr.kalashnikov@gmail.com>
 
 using Nattr4mn.Quests.Extensions;
+using Nattr4mn.Quests.Repositories;
 using Nattr4mn.Quests.UI.CompleteMark;
 using TMPro;
 using UnityEngine;

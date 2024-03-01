@@ -3,8 +3,8 @@
 
 using System;
 using Nattr4mn.Quests.Extensions;
-using Nattr4mn.Quests.Timers;
 using Nattr4mn.Quests.Status;
+using Nattr4mn.Quests.Timers;
 
 namespace Nattr4mn.Quests
 {

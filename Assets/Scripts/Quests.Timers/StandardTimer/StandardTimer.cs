@@ -1,4 +1,7 @@
-﻿using System;
+﻿// SPDX-License-Identifier: Apache-2.0
+// © 2023-2024 Aleksandr Kalashnikov <aleksandrr.kalashnikov@gmail.com>
+
+using System;
 using System.Threading;
 using System.Threading.Tasks;
 
